@@ -19,7 +19,7 @@ var LuaHighlightRules = function() {
         "collectgarbage|getmetatable|module|rawset|math|debug|"+
         "pcall|table|newproxy|type|coroutine|_G|select|gcinfo|"+
         "pairs|rawget|loadstring|ipairs|_VERSION|dofile|setfenv|"+
-        "load|error|loadfile|"+
+        "load|error|loadfile|saveinstance|"+
 
         "sub|upper|len|gfind|rep|find|match|char|dump|gmatch|"+
         "reverse|byte|format|gsub|lower|preload|loadlib|loaded|"+
